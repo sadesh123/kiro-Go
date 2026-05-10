@@ -34,7 +34,7 @@ kiro-go init my-api
 ```
 
 ```
-GitHub username or org: sadesh123
+GitHub username or org: [your-git-name]
 Which preset? (api / cli / svc / none): api
 
 Scaffolded my-api with module github.com/sadesh123/my-api
