@@ -43,7 +43,6 @@ mv kiro-specs /usr/local/bin/kiro-specs
 macOS will block it the first time since it isn't signed. Two ways to fix this:
 
 - Open **System Settings → Privacy & Security**, scroll down, click **Allow Anyway**
-- Or run: `xattr -d com.apple.quarantine /usr/local/bin/kiro-specs`
 
 **Step 4 — Run it**
 
